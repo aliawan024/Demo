@@ -5,4 +5,4 @@ Auther - Ali Awan
 <br>
 This is my change after long time.
 <br>
-Now its time to cheak the pull request
+Now its time to cheak pull request
